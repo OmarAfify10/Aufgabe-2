@@ -19,3 +19,5 @@ Dieser Befehl zeigt das neue Ergebnis der Laufzeit an und gibt an, ob es mit den
 
 # Binder Badge 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OmarAfify10/Aufgabe-2/HEAD)
+# Google Colab 
+https://colab.research.google.com/drive/1qC3vOfBdFlas6n6Jo35l1dIf6CNTvzEX#scrollTo=M0cZGVUSVNaj
