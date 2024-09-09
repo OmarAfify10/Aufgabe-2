@@ -19,5 +19,11 @@ Dieser Befehl zeigt das neue Ergebnis der Laufzeit an und gibt an, ob es mit den
 
 # Binder Badge 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OmarAfify10/Aufgabe-2/HEAD)
+
 # Ausführen auf Google Colab 
+1) Öffnen Sie Google Colab
+2) wählen Sie ein neues Notebook
+3) wählen Sie Github
+4)kopieren Sie den Link des Repositorys
+5) wählen Sie die Datei (Aufgabe.2.ipynb) aus und führen Sie das Notebook aus.
 
