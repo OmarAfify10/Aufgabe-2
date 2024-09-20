@@ -33,7 +33,8 @@ test_time = end_time - start_time
 print(f'Test Time: {test_time} seconds')
 
 # Compare the times
-if np.isclose(test_time, saved_training_time, atol=1.2):
-    print("Test time is close to the saved training time.")
+accepted_range = saved_training_time*0.2
+if np.isclose(test_time, saved_training_time, atol=accepted_range):
+    print("Test time is within the accepted range.")
 else:
     print("Test time differs from the saved training time.")
